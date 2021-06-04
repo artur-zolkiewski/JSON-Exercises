@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\abrakadabra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\abrakadabra\\.nuget\\packages"
+    ]
+  }
+}
